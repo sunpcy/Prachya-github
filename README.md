@@ -26,6 +26,14 @@
       - Learned core concepts of using data for business strategies, product development, and creating business value in the digital era.
       - Explored data-driven decision-making processes, user insights, and product development through case studies from companies like Facebook, Netflix, and Uber.
       - Understood the complete data utilization process from data collection to model creation for decision support.
+        
+- [Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/public_profiles/19ef75e2-7b00-4f62-a86c-b0ae55953f9e/badges/3921453) (Google Cloud)
+   - __Learned Skills__
+      - Learned core concepts of fundamental SQL for querying and analyzing data in BigQuery.
+      - Practiced querying public datasets and loading sample data into BigQuery for analysis.
+      - Developed proficiency in troubleshooting common SQL syntax errors using the query validator in BigQuery.
+      - Acquired knowledge of connecting Looker Studio to BigQuery to create and visualize reports and dashboards.
+    
      
         
 ## Currently Learning
