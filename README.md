@@ -33,6 +33,15 @@
       - Practiced querying public datasets and loading sample data into BigQuery for analysis.
       - Developed proficiency in troubleshooting common SQL syntax errors using the query validator in BigQuery.
       - Acquired knowledge of connecting Looker Studio to BigQuery to create and visualize reports and dashboards.
+
+- [Introduction to Portfolio Risk Management in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/b338903a316b4b45acf928659ff8c4198936c519) (DataCamp)
+   - __Learned Skills__
+      - Mastered financial topics like statistical properties and portfolio compositions.
+      - Built and analyzed correlation matrices.
+      - Optimized investment portfolios.
+      - Conducted multi-factor analyses for Alpha.
+      - Applied simulations and value at risk (VaR) techniques.
+      - Ran Monte Carlo simulations for risk assessment.
     
      
         
