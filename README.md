@@ -36,7 +36,7 @@
 
 - [Introduction to Portfolio Risk Management in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/b338903a316b4b45acf928659ff8c4198936c519) (DataCamp)
    - __Learned Skills__
-      - Mastered financial topics like statistical properties and portfolio compositions.
+      - Learned financial topics like statistical properties and portfolio compositions.
       - Built and analyzed correlation matrices.
       - Optimized investment portfolios.
       - Conducted multi-factor analyses for Alpha.
