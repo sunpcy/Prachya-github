@@ -1,5 +1,7 @@
 # Portfolio
 
+For all DataCamp Certificates and my learning please see this [link](https://www.datacamp.com/portfolio/sunprachya) 
+
 ## Certificates
 - [Python Data Fundamentals Tracks](https://www.datacamp.com/completed/statement-of-accomplishment/track/e4960c389c7d2b840651e6b958429b005e5e0c84) (DataCamp)
    - __Learned Skills__
