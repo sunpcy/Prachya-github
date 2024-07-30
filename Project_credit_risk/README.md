@@ -8,7 +8,5 @@ The dataset used in this project was provided by DataCamp as part of the "Credit
 
 ## Project Structure
 
-- `data/`: Contains the dataset used for modeling.
 - `notebooks/`: Jupyter notebooks with the code for data preparation, model building, and evaluation.
-- `scripts/`: Python scripts for various tasks such as data cleaning and feature engineering.
 - `README.md`: This file, providing an overview of the project.
