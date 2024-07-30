@@ -45,6 +45,13 @@ For all DataCamp Certificates and my learning please see this [link](https://www
       - Applied simulations and value at risk (VaR) techniques.
       - Ran Monte Carlo simulations for risk assessment.
     
+- [Credit Risk Modeling in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/582c8ecb29b8daa2bfbdebe5b729f7d350bd4241) (DataCamp)
+   - __Learned Skills__
+      - Cleaned and processed loan data, addressing outliers and missing values.
+      - Predicted default probabilities and evaluated model performance using ROC curves and AUC. (LogisticRegression)
+      - Developed advanced models, handled class imbalance, and improved prediction accuracy. (XGBoost)
+      - Compared models using key metrics, selected the optimal model, and devised strategies to minimize expected loss and estimate portfolio value.
+    
      
         
 ## Currently Learning
