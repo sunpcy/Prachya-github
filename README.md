@@ -47,12 +47,8 @@ For all DataCamp Certificates and my learning please see this [link](https://www
     
 - [Credit Risk Modeling in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/582c8ecb29b8daa2bfbdebe5b729f7d350bd4241) (DataCamp)
    - __Learned Skills__
-      - Cleaned and processed loan data, addressing outliers and missing values.
-      - Predicted default probabilities and evaluated model performance using ROC curves and AUC. (LogisticRegression)
-      - Developed advanced models, handled class imbalance, and improved prediction accuracy. (XGBoost)
-      - Compared models using key metrics, selected the optimal model, and devised strategies to minimize expected loss and estimate portfolio value.
-    
-     
-        
-## Currently Learning
-- __Data Science Bootcamp 10__
+      - Developed and evaluated credit risk models using logistic regression and decision trees.
+      - Conducted data preparation, including cleaning, handling missing values, and feature engineering.
+      - Calculated and interpreted expected loss to assess credit risk.
+      - Evaluated model performance with metrics such as accuracy, precision, recall, and ROC curve.
+      - Implemented advanced machine learning techniques, including random forests and gradient boosting machines, to improve model accuracy.
